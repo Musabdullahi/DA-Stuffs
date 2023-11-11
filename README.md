@@ -1,8 +1,8 @@
-*# Project Title: SuperSales Analysis*
+# *Project Title: SuperSales Analysis*
 In this analysis, I will be using Microsoft Excel to analyse, visualize and draw insights from the Superstore Dataset publicly obtained from Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). The SuperStore dataset spans a period of Four (4) years.
 
 ------------------------------------
-*# Problem Statement*
+# *Problem Statement*
 In this step, the business problem is discussed in the form of Business Objective to guide future business decisions...  
 Businesss Objectives:  
 * Total Sales?  
@@ -22,8 +22,8 @@ Businesss Objectives:
 # *Data Sourcing*
 
 ------------------------------------
-# Data Transformation
+# *Data Transformation*
 
 -------------------------------------
 
-# Analysis and Findings
+# *Analysis and Findings*
