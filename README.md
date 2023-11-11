@@ -20,9 +20,10 @@ Businesss Objectives:
 
 ------------------------------------
 # *Data Sourcing*
-This step explains the SuperStore dataset as follows:  
+This step discusses the raw form of the SuperStore dataset as follows:  
 * The Superstore dataset is publicly available on Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
-* 
+* It consists of 21 Columns including: Row ID,	Order ID,	Order Date,	Ship Date,	Ship Mode,	Customer ID,	Customer Name,	Segment,	Country,	City,	State,	Postal Code,	Region,	Product ID,	Category,	Sub-Category,	Product Name,	Sales,	Quantity,	Discount &	Profit.
+* It consists of 9,994 rows and 1 row as header-row.
 
 ------------------------------------
 # *Data Transformation*
