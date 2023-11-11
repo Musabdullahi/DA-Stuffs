@@ -20,6 +20,9 @@ Businesss Objectives:
 
 ------------------------------------
 # *Data Sourcing*
+This step explains the SuperStore dataset as follows:  
+* The Superstore dataset is publicly available on Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
+* 
 
 ------------------------------------
 # *Data Transformation*
