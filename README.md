@@ -28,11 +28,11 @@ This step discusses the raw form of the SuperStore dataset as follows:
 ------------------------------------
 # *Data Transformation*
 Power Query from Excel was utilized to clean and transform the data to address:  
-* Duplicate values.
-* Missing values or errors.
-* Inconsistencies in datatype.
-* Inconsistencies in date formats.
-* Removal of unnecessary data.
+* Duplicate values: There was no duplicate row found.
+* Missing values or errors: There was none found.
+* Inconsistency in datatype: Columns were formatted to appropriate datatype.
+* Inconsistency in date formats: Date columns were converted from text to date.
+* Removal of unnecessary data: _________ column was removed.
 
 -------------------------------------
 
