@@ -12,11 +12,12 @@ Businesss Objectives:
 * Cities with the highest sales record?  
 * States with the highest sales record?  
 * The Ship mode in order of use?  
-* Sales by Category?  
-* Sales by Region?  
-* Total Sales by category?  
+* Sales by Category?   
+* Sales by Sub-category?
+* Sales by Region? 
 * The average delivery days from the date of order to ship date?  
-* The most valuable customers?  
+* The most valuable customers?
+* Top Selling Products?
 
 ------------------------------------
 # *Data Sourcing*
@@ -32,8 +33,21 @@ Power Query from Excel was utilized to clean and transform the data to address:
 * Missing values or errors: There was none found.
 * Inconsistency in datatype: Columns were formatted to appropriate datatype.
 * Inconsistency in date formats: Date columns were converted from text to date.
-* Removal of unnecessary data: _________ column was removed.
+* Removal of unnecessary data: 3 unnecsssary columns were removed; Row ID column was removed since it is the same as Excel column label. Country column was also removed since this data is based in only one country 'United States'. Product Name column was also removed since it isn't useful for this analysis.
 
 -------------------------------------
 
-# *Analysis and Findings*
+# *Analysis and Findings*  
+1. Total Sales?
+2. Total Orders?
+3. Total number of Customers?
+4. Total number of Products?
+5. Cities with the highest sales record?
+6. States with the highest sales record?
+7. The Ship mode in order of use?
+8. Sales by Category?
+9. Sales by Sub-category?
+10. Sales by Region?
+11. The average delivery days from the date of order to ship date?
+12. The most valuable customers?
+13. Top Selling Products?
