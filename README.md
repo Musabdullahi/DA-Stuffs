@@ -39,7 +39,6 @@ Power Query from Excel was utilized to clean and transform the data to address:
 
 # *Analysis and Findings*  
 ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/84775fde-9640-4a74-aa4c-79f7adb3207c)
-
 1. Total Sales?  
     There is a total of 2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of 484,247 sales; 2015 has 470,533 sales; while 2016 has 609,206 sales;        and 2017 has 733,215 sales.
 2. Total Orders?  
