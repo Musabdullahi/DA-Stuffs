@@ -40,7 +40,7 @@ Power Query from Excel was utilized to clean and transform the data to address:
 # *Analysis and Findings*  
 ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/84775fde-9640-4a74-aa4c-79f7adb3207c)
 1. Total Sales?  
-    There is a total of 2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of 484,247 sales; 2015 has 470,533 sales; while 2016 has 609,206 sales;        and 2017 has 733,215 sales.
+    There is a total of $2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of $484,247 sales; 2015 has $470,533 sales; while 2016 has $609,206           sales; and 2017 has $733,215 sales.
     Monthly sales deduction shows that sales are usually high towards the end of the year around Q3 and Q4.
 2. Total Orders?  
     A total of 9,994 orders was placed between the year 2014 and 2017. While 2014, 2015, 2016, 2017 each has 1,993, 2102, 2,587, 3,312 orders respectively.
@@ -49,9 +49,9 @@ Power Query from Excel was utilized to clean and transform the data to address:
 4. Total number of Products?  
     There was a total number of 1,862 unique products.  
 5. Cities with the highest sales record?  
-    In this analysis, New York City has emerged as the leading market, boasting an impressive sales figure of about 256,400 transactions, presenting a significant opportunity for            targeted marketing potential.
+    In this analysis, New York City has emerged as the leading market, boasting an impressive sales figure of about $256,400 transactions, presenting a significant opportunity for           targeted marketing potential.
 6. States with the highest sales record?  
-    California has emerged as the top-selling state, recording an impressive 458,000 transactions. This data highlights a valuable chance for focused marketing in the state to tap into      its potential for boosted sales.
+    California has emerged as the top-selling state, recording an impressive $458,000 transactions. This data highlights a valuable chance for focused marketing in the state to tap into     its potential for boosted sales.
 7. The Ship mode in order of use?  
     ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/45930b2c-b360-41ab-b59d-fb63efe4924a)  
    The order of ship mode usage is as follows: 'Standard class' takes the lead due to its affordability, followed by 'Second class' and 'First class,' with 'Same day' being the least       utilized mode.
