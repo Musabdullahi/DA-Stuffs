@@ -58,9 +58,13 @@ Power Query from Excel was utilized to clean and transform the data to address:
 10. Sales by Category?  
     Among the three categories, 'Technology' emerges as the most patronized, achieving an impressive $836,200 in sales and approximately $145,500 in profit. Followed by 'Furniture' with     approximately $742,000 in sales with a mere profit of $18,500, while 'Office supplies' has about $719,000 in sales with a profit of $122,500 surpassing that of 'Furniture'. Out of       the 3, it is clear that Technology and Office Supplies are the best in terms of profits. 
 11. Sales by Sub-category?  
-    
+    Out of the 17 subcategories, the biggest saless comes from Phones, Chairs, Storage, Tables and Binders.
 12. Sales by Region?  
-    The West region stands out as a robust force in sales, boasting about $725,500 transactions with about $108,400 profit.
-13. The average delivery days from the date of order to ship date?
-14. The most valuable customers?
+    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/31339af8-158b-4dec-8ab6-0fa45a4d1d13)  
+    The West region stands out as a robust force in sales, boasting about $725,500 transactions with about $108,400 profit, Followed by East, Central and South.
+13. The average delivery days from the date of order to ship date?  
+![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/dfdce797-baf7-487e-91ee-fbea29a0eb95)  
+    The delivery time frame has consistently ranged from a minimum of same-day delivery to a maximum of 7 days, with an average delivery period of approximately 4 days.
+14. The most valuable customers?  
+    
 15. Top Selling Products?
