@@ -38,17 +38,18 @@ Power Query from Excel was utilized to clean and transform the data to address:
 -------------------------------------
 
 # *Analysis and Findings*  
-1. Total Sales?
-    There is a total of 2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of 484,247 sales; 2015 has 470,533 sales; while 2016 has 609,206 sales;        and 2017 has 733,215 sales.
-2. Total Orders?
-    A total of 9,994 orders was placed between the year 2014 and 2017. While 2014, 2015, 2016, 2017 each has 1,993, 2102, 2,587, 3,312 orders respectively.
-3. Total number of Customers?
-    There was a unique count of 793 customers.
-4. Total number of Products?
-    There was a total number of 1,862 unique products.
-5. Cities with the highest sales record?
-    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/35689e74-6c59-4414-815b-2069b0a6af62)
+![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/84775fde-9640-4a74-aa4c-79f7adb3207c)
 
+1. Total Sales?  
+    There is a total of 2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of 484,247 sales; 2015 has 470,533 sales; while 2016 has 609,206 sales;        and 2017 has 733,215 sales.
+2. Total Orders?  
+    A total of 9,994 orders was placed between the year 2014 and 2017. While 2014, 2015, 2016, 2017 each has 1,993, 2102, 2,587, 3,312 orders respectively.
+3. Total number of Customers?  
+    There was a unique count of 793 customers.
+4. Total number of Products?  
+    There was a total number of 1,862 unique products.
+5. Cities with the highest sales record?  
+    
 6. States with the highest sales record?
 7. The Ship mode in order of use?
 8. Sales by Category?
