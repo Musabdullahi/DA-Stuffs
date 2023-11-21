@@ -48,8 +48,6 @@ Power Query from Excel was utilized to clean and transform the data to address:
     There was a unique count of 793 customers.
 5. Total number of Products?  
     There was a total number of 1,862 unique products.  
-    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/17dcac62-f7ac-4bf6-8178-d13e6e25a0ff)
-
 6. Cities with the highest sales record?  
     In this analysis, New York City has emerged as the leading market, boasting an impressive sales figure of about 256,400 transactions, presenting a significant opportunity for            targeted marketing potential.
 7. States with the highest sales record?  
@@ -57,9 +55,12 @@ Power Query from Excel was utilized to clean and transform the data to address:
 8. The Ship mode in order of use?  
 ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/45930b2c-b360-41ab-b59d-fb63efe4924a)  
    The order of ship mode usage is as follows: 'Standard class' takes the lead due to its affordability, followed by 'Second class' and 'First class,' with 'Same day' being the least       utilized mode.
-10. Sales by Category?
-11. Sales by Sub-category?
-12. Sales by Region?
+10. Sales by Category?  
+    Among the three categories, 'Technology' emerges as the most patronized, achieving an impressive $836,200 in sales and approximately $145,500 in profit. Followed by 'Furniture' with     approximately $742,000 in sales with a mere profit of $18,500, while 'Office supplies' has about $719,000 in sales with a profit of $122,500 surpassing that of 'Furniture'. Out of       the 3, it is clear that Technology and Office Supplies are the best in terms of profits. 
+11. Sales by Sub-category?  
+    
+12. Sales by Region?  
+    The West region stands out as a robust force in sales, boasting about $725,500 transactions with about $108,400 profit.
 13. The average delivery days from the date of order to ship date?
 14. The most valuable customers?
 15. Top Selling Products?
