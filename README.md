@@ -42,29 +42,31 @@ Power Query from Excel was utilized to clean and transform the data to address:
 1. Total Sales?  
     There is a total of 2,297,201 sales carried out between 2014 and 2017. In the year 2014, there was a total of 484,247 sales; 2015 has 470,533 sales; while 2016 has 609,206 sales;        and 2017 has 733,215 sales.
     Monthly sales deduction shows that sales are usually high towards the end of the year around Q3 and Q4.
-3. Total Orders?  
+2. Total Orders?  
     A total of 9,994 orders was placed between the year 2014 and 2017. While 2014, 2015, 2016, 2017 each has 1,993, 2102, 2,587, 3,312 orders respectively.
-4. Total number of Customers?  
+3. Total number of Customers?  
     There was a unique count of 793 customers.
-5. Total number of Products?  
+4. Total number of Products?  
     There was a total number of 1,862 unique products.  
-6. Cities with the highest sales record?  
+5. Cities with the highest sales record?  
     In this analysis, New York City has emerged as the leading market, boasting an impressive sales figure of about 256,400 transactions, presenting a significant opportunity for            targeted marketing potential.
-7. States with the highest sales record?  
+6. States with the highest sales record?  
     California has emerged as the top-selling state, recording an impressive 458,000 transactions. This data highlights a valuable chance for focused marketing in the state to tap into      its potential for boosted sales.
-8. The Ship mode in order of use?  
-![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/45930b2c-b360-41ab-b59d-fb63efe4924a)  
+7. The Ship mode in order of use?  
+    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/45930b2c-b360-41ab-b59d-fb63efe4924a)  
    The order of ship mode usage is as follows: 'Standard class' takes the lead due to its affordability, followed by 'Second class' and 'First class,' with 'Same day' being the least       utilized mode.
-10. Sales by Category?  
+8. Sales by Category?  
     Among the three categories, 'Technology' emerges as the most patronized, achieving an impressive $836,200 in sales and approximately $145,500 in profit. Followed by 'Furniture' with     approximately $742,000 in sales with a mere profit of $18,500, while 'Office supplies' has about $719,000 in sales with a profit of $122,500 surpassing that of 'Furniture'. Out of       the 3, it is clear that Technology and Office Supplies are the best in terms of profits. 
-11. Sales by Sub-category?  
+9. Sales by Sub-category?  
     Out of the 17 subcategories, the biggest saless comes from Phones, Chairs, Storage, Tables and Binders.
-12. Sales by Region?  
+10. Sales by Region?  
     ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/31339af8-158b-4dec-8ab6-0fa45a4d1d13)  
     The West region stands out as a robust force in sales, boasting about $725,500 transactions with about $108,400 profit, Followed by East, Central and South.
-13. The average delivery days from the date of order to ship date?  
-![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/dfdce797-baf7-487e-91ee-fbea29a0eb95)  
+11. The average delivery days from the date of order to ship date?  
+    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/dfdce797-baf7-487e-91ee-fbea29a0eb95)  
     The delivery time frame has consistently ranged from a minimum of same-day delivery to a maximum of 7 days, with an average delivery period of approximately 4 days.
-14. The most valuable customers?  
-    
-15. Top Selling Products?
+12. The most valuable customers?  
+    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/19d0e24a-bb8a-4e05-8d81-7711c07f89d3)  
+    Prioritizing our loyal customers is paramount, aiming to enhance the value we offer them.  
+    It can be deduced that, Sean Miller is the most valuable customer in terms of sales, generating $25,000 in sales. However, it’s important to note that Sean Miller has a negative         profit of -$2,000. Tamara Chand is the second highest in sales with $19,000 and has a profit of $9,000, making him/her potentially more valuable in terms of profitability.
+13. Top Selling Products?
