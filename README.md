@@ -47,7 +47,9 @@ Power Query from Excel was utilized to clean and transform the data to address:
 4. Total number of Customers?  
     There was a unique count of 793 customers.
 5. Total number of Products?  
-    There was a total number of 1,862 unique products.
+    There was a total number of 1,862 unique products.  
+    ![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/17dcac62-f7ac-4bf6-8178-d13e6e25a0ff)
+
 6. Cities with the highest sales record?  
     In this analysis, New York City has emerged as the leading market, boasting an impressive sales figure of about 256,400 transactions, presenting a significant opportunity for            targeted marketing potential.
 7. States with the highest sales record?  
