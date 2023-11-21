@@ -53,7 +53,7 @@ Power Query from Excel was utilized to clean and transform the data to address:
 7. States with the highest sales record?  
     California has emerged as the top-selling state, recording an impressive 458,000 transactions. This data highlights a valuable chance for focused marketing in the state to tap into      its potential for boosted sales.
 8. The Ship mode in order of use?  
-![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/9c7b6fb1-a555-4e58-a278-11682f317254)
+![image](https://github.com/Musabdullahi/DA-Stuffs/assets/99256919/45930b2c-b360-41ab-b59d-fb63efe4924a)  
    The order of ship mode usage is as follows: 'Standard class' takes the lead due to its affordability, followed by 'Second class' and 'First class,' with 'Same day' being the least       utilized mode.
 10. Sales by Category?
 11. Sales by Sub-category?
