@@ -12,9 +12,9 @@ The challenge is to create an Excel solution that will dynamically update additi
 •	Age: Calculate the age based on the "DOB" field.  
 •	Age Group: Group participants into different age groups of 0-30, 31-40, 41-50, overage.  
 •	Reg ID: Generate a unique registration ID for each participant in the format TR-YY-XXX  
-o	TR stands for training (everyone have this),  
-o	YY would be GD, IF, MG, AL, LW, PG & MT for graphics design, influencer, Manager, Analyst, lawyer, programming & Marketing respectively.  
-o	XXX stands for the rank of the participant by date and time, the first participant to register would have a rank of 001.  
+>o	TR stands for training (everyone have this),  
+>o	YY would be GD, IF, MG, AL, LW, PG & MT for graphics design, influencer, Manager, Analyst, lawyer, programming & Marketing respectively.  
+>o	XXX stands for the rank of the participant by date and time, the first participant to register would have a rank of 001.  
 Challenge Requirements:  
 Your Excel solution should be designed to handle new data entries. As new rows of registration data are added to the dataset, the additional fields should be updated automatically.  
 
