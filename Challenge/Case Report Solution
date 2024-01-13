@@ -1,0 +1,20 @@
+Report  
+Each column is labelled as:  
+Fullname: name entered by trainee  
+DOB: date of birth. (Displayed as dd/mm/yyyy)  
+Reg Date: date of registration (Displayed as dd/mm/yyyy)  
+Time Registered: time of registration   
+Skill: the skill to be learnt (Marketing, Programming, graphic design, manager, analyst, lawyer, influencer)  
+FullName1: the Fullname column is cleaned using the formula =PROPER(TRIM(CLEAN(A2)))  
+FullName Clean: the FullName1 column is cleaned to remove fullstop (.) after abbreviation using =SUBSTITUTE(F2,".","")  
+1st Space: serves as indication delimeter based on first space using the formula =Find(“ “)  
+2nd space: serves as indication delimeter based on second space using the formula =Find(“ “)  
+3rd space: serves as indication delimeter based on third space using the formula =Find(“ “)  
+Title: indicates trainees title (Mr, Mrs, Dr) extracted using the =left() and 1st space formula  
+Initials: indicates the first letter of trainees first name and second name extracted using the =left & Mid() formula and the spaces delimiter.  
+Last Name: indicates Trainees last name extracted using the =Right() formula and the 3rd space delimiter.  
+Shortened form: indicates trainees initials with last name extracted using the =Concatenate() function.  
+Age: trainees age based on DOB using the =YEAR(TODAY())-YEAR(B2)) formula.  
+Age group: assigned using the =Ifs formula as (0-30, 31-40, 41-50, overage).  
+S/N0.: Assigned used the =Row function based on the date and time of registration.  
+ID: Formulated using the combination of =concatenate & Xlookup function based on the template (TR-YY-XXX).  
