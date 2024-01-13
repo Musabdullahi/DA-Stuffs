@@ -1,7 +1,7 @@
 *Case Brief: Excel Data Transformation*   
 The dataset includes the following fields:  
-•	Full name (which contains title, first name, 2nd name, and 3rd name)  
-•	DOB (Date of Birth)  
+*	Full name (which contains title, first name, 2nd name, and 3rd name)  
+*	DOB (Date of Birth)  
 •	Registration Date  
 •	Skill  
 The challenge is to create an Excel solution that will dynamically update additional fields as new data is added to the dataset. The additional fields to be generated are as follows:  
