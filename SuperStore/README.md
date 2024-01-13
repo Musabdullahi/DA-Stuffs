@@ -1,4 +1,4 @@
-# *Project Title: SuperSales Analysis*
+# *Project Title: SuperStore Analysis*
 In this project, I will be using Microsoft Excel to analyse, visualize and draw insights from the Superstore Dataset publicly obtained from Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). The SuperStore dataset spans a period of Four (4) years.
 
 ------------------------------------
