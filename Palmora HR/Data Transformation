@@ -8,6 +8,6 @@ Based on the duplicate records, Excel formula was used to separate duplicate row
 Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
 
 ** 66 Employees were found to be inactive with the company
-	140 duplicate employee records distilled to 70
-	805 unique employee records
-	Total Active Employee: 875
+   140 duplicate employee records distilled to 70
+   805 unique employee records
+   Total Active Employee: 875
