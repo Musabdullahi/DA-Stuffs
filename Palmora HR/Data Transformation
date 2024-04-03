@@ -1,3 +1,6 @@
+*Data Source*
+Dataset was obtained from the company and it consists if 1014 records and 7 columns including S/N, Name, Gender, Department, Salary, Location and Ratings.
+
 S/N column removed since it is same as that of Excel.
 2 duplicate record was found and removed from the raw data.
 43 Employees with ‘blank’ salary removed indicating they are no longer with the company.
