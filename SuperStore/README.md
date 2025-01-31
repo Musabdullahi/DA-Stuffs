@@ -21,4 +21,3 @@ Businesss Objectives:
 
 ------------------------------------
 
-file:///C:/Users/VIBEZ/Desktop/My%20Stuff/new%20DA/DA%20projects/SUPERSTORE/SuperStore%20DashBoard.jpg
