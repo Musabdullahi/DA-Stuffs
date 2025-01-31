@@ -8,7 +8,7 @@ The Palmora Analysis provides a comprehensive view of key performance indicators
 
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
-*CONCLUSION*
+CONCLUSION
 Tracking efficiency ratings through duplicate records is a strategic HR approach. By analysing performance trends, the company can make informed decisions on whether employees should remain in the new location or return to their former branch. Implementing targeted support mechanisms will ensure that all employees have the opportunity to succeed in their assigned locations.
 ------------------------------------
 
