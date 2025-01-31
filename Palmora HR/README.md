@@ -10,5 +10,8 @@ The Dashboard reveals that employees with duplicate records have been intentiona
 
 # CONCLUSION
 Tracking efficiency ratings through duplicate records is a strategic HR approach. By analysing performance trends, the company can make informed decisions on whether employees should remain in the new location or return to their former branch. Implementing targeted support mechanisms will ensure that all employees have the opportunity to succeed in their assigned locations.
+
+
+
 ------------------------------------
 
