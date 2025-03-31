@@ -8,15 +8,13 @@ At its core, the project seeks to answer the question:
 ? How can stakeholders leverage this data to promote a more sustainable and efficient transportation future?  
 
 The insights derived from this project have the potential to shape strategies that boost EV adoption where it lags, encourage advancements in battery technology, and ultimately contribute to a cleaner, more sustainable mobility landscape.  
-# 
-*Exploratory Data Analysis*  
+# *Exploratory Data Analysis*  
 The analysis began with exploratory techniques to gain a clear overview of the EV dataset. The process started by cleaning and standardizing the data, then using summary statistics and visualizations to reveal key trends. For instance, a strong preference for BEVs over PHEVs was observed, along with significant regional adoption differences and varied battery ranges that could affect overall market growth.  
 Key questions were established to guide the analysis:  
 ? What drives the regional differences in EV adoption?  
 ? How do vehicle types and battery ranges influence market growth?  
 ? What factors are critical for Clean Alternative Fuel Vehicle (CAFV) eligibility?  
-# 
-*Key Findings*  
+# *Key Findings*  
 Total Vehicle  
 Diving into the dataset reveals a total fleet of 173,533 Electric Vehicles cruising on American roads. It’s clear that the EV revolution is gaining momentum and reshaping transportation¬. Stakeholders should note, this is not just a trend, but, the future unfolding before us.  
 
@@ -36,8 +34,7 @@ CAFV eligibility is a key driver for EV adoption, with 65,846 vehicles meeting c
 Battery Range Insights  
 Battery ranges vary significantly, from 0 to 337 miles. The average range of 60 miles highlights the need for technological advancements to improve practicality and boost consumer confidence. Stakeholders must seize this as a call to action: pushing for extended ranges can unlock the next wave of adoption, ensuring EVs are not only sustainable but also practical for everyday use.  
 Analysis of the average battery range across EV makes reveals significant variations. Jaguar leads with the highest average range, surpassing 200 miles, while other brands, Chevrolet, Nissan, and Tesla maintain moderate battery performance, but improvements are still needed to enhance overall efficiency.
-# 
-*Recommendation*  
+# *Recommendation*  
 •	What drives EV adoption across regions? Policies, infrastructure, and incentives play a major role—Washington is proof of this.  
 •	How can stakeholders leverage this data? Focus on expanding EV-friendly policies and infrastructure in underperforming regions.  
 •	How do vehicle types and battery ranges influence growth? The dominance of BEVs signals consumer trust, while battery range remains a limitation that must be addressed.  
